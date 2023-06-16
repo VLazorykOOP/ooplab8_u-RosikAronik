@@ -18,13 +18,17 @@
     <ClCompile Include="OOPLab8T.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
-    <ClCompile Include="example.cpp">
+    <ClCompile Include="L1.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="example.h">
+    <ClCompile Include="L2.cpp">
       <Filter>Исходные файлы</Filter>
-    </ClInclude>
+    </ClCompile>
+    <ClCompile Include="L3.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="L4.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
